@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/src/main/webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
