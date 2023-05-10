@@ -1,0 +1,15 @@
+<server description="Demo REST service">
+
+  <featureManager>
+    <feature>jaxrs-2.1</feature>
+  </featureManager>
+
+  <httpEndpoint 
+    httpPort="${default.http.port}" 
+    httpsPort="${default.https.port}" 
+    id="defaultHttpEndpoint" host="*" />
+
+  <webApplication location="rest-svc.war"
+    contextRoot="${app.context.root}" />
+
+</server>
