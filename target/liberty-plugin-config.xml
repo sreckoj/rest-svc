@@ -26,4 +26,9 @@
     <refresh>false</refresh>
     <installAppsConfigDropins>/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/liberty/wlp/usr/servers/defaultServer/configDropins/defaults/install_apps_configuration_1491924271.xml</installAppsConfigDropins>
     <projectType>war</projectType>
+    <projectCompileDependency>io.prometheus:simpleclient:0.16.0</projectCompileDependency>
+    <projectCompileDependency>io.prometheus:simpleclient_tracer_otel:0.16.0</projectCompileDependency>
+    <projectCompileDependency>io.prometheus:simpleclient_tracer_common:0.16.0</projectCompileDependency>
+    <projectCompileDependency>io.prometheus:simpleclient_tracer_otel_agent:0.16.0</projectCompileDependency>
+    <projectCompileDependency>io.prometheus:simpleclient_common:0.16.0</projectCompileDependency>
 </liberty-plugin-config>

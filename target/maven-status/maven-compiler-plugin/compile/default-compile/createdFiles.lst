@@ -1,3 +1,4 @@
 demo/svc/DemoMessage.class
+demo/svc/MetricsResource.class
 demo/svc/DemoResource.class
 demo/svc/DemoApp.class

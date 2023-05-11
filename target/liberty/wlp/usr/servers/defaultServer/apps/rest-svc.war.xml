@@ -2,5 +2,10 @@
 <archive>
     <dir sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/src/main/webapp" targetInArchive="/"/>
     <dir sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/Users/sreckojanjic/.m2/repository/io/prometheus/simpleclient/0.16.0/simpleclient-0.16.0.jar" targetInArchive="/WEB-INF/lib/simpleclient-0.16.0.jar"/>
+    <file sourceOnDisk="/Users/sreckojanjic/.m2/repository/io/prometheus/simpleclient_tracer_otel/0.16.0/simpleclient_tracer_otel-0.16.0.jar" targetInArchive="/WEB-INF/lib/simpleclient_tracer_otel-0.16.0.jar"/>
+    <file sourceOnDisk="/Users/sreckojanjic/.m2/repository/io/prometheus/simpleclient_tracer_common/0.16.0/simpleclient_tracer_common-0.16.0.jar" targetInArchive="/WEB-INF/lib/simpleclient_tracer_common-0.16.0.jar"/>
+    <file sourceOnDisk="/Users/sreckojanjic/.m2/repository/io/prometheus/simpleclient_tracer_otel_agent/0.16.0/simpleclient_tracer_otel_agent-0.16.0.jar" targetInArchive="/WEB-INF/lib/simpleclient_tracer_otel_agent-0.16.0.jar"/>
+    <file sourceOnDisk="/Users/sreckojanjic/.m2/repository/io/prometheus/simpleclient_common/0.16.0/simpleclient_common-0.16.0.jar" targetInArchive="/WEB-INF/lib/simpleclient_common-0.16.0.jar"/>
     <file sourceOnDisk="/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
 </archive>

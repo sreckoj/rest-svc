@@ -6,17 +6,17 @@ java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home/jre
 java.version = 1.8.0_311
 java.runtime = Java(TM) SE Runtime Environment (1.8.0_311-b11)
 os = Mac OS X (10.16; x86_64) (en_SI)
-process = 72602@Sreckos-MacBook-Pro-2.local
+process = 370@Sreckos-MacBook-Pro-2.local
 Classpath = /Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/liberty/wlp/bin/tools/ws-server.jar:/Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/liberty/wlp/bin/tools/ws-javaagent.jar
 Java Library path = /Users/sreckojanjic/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
 ********************************************************************************
-[5/10/23 9:40:25:824 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server defaultServer has been launched.
-[5/10/23 9:40:26:230 CEST] 00000022 com.ibm.ws.config.xml.internal.ServerXMLConfiguration        A CWWKG0093A: Processing configuration drop-ins resource: /Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/liberty/wlp/usr/servers/defaultServer/configDropins/overrides/liberty-plugin-variable-config.xml
-[5/10/23 9:40:26:459 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 0.917 seconds
-[5/10/23 9:40:26:495 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
-[5/10/23 9:40:26:614 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [jaxrs-2.1, jaxrsClient-2.1, jsonp-1.1, servlet-4.0].
-[5/10/23 9:40:26:615 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.158 seconds.
-[5/10/23 9:40:26:615 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0026I: The server defaultServer is ready to build a smaller package.
-[5/10/23 9:40:26:618 CEST] 0000002d com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
-[5/10/23 9:40:26:621 CEST] 0000002d com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
-[5/10/23 9:40:26:677 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server defaultServer stopped after 1.136 seconds.
+[5/11/23 18:33:29:284 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server defaultServer has been launched.
+[5/11/23 18:33:29:591 CEST] 00000022 com.ibm.ws.config.xml.internal.ServerXMLConfiguration        A CWWKG0093A: Processing configuration drop-ins resource: /Users/sreckojanjic/IBM/Demo/Java-app-servers/Liberty/GitHub/rest-svc/target/liberty/wlp/usr/servers/defaultServer/configDropins/overrides/liberty-plugin-variable-config.xml
+[5/11/23 18:33:29:697 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 0.617 seconds
+[5/11/23 18:33:29:705 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[5/11/23 18:33:29:907 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [jaxrs-2.1, jaxrsClient-2.1, jsonp-1.1, servlet-4.0].
+[5/11/23 18:33:29:908 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.210 seconds.
+[5/11/23 18:33:29:908 CEST] 0000002c com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0026I: The server defaultServer is ready to build a smaller package.
+[5/11/23 18:33:29:911 CEST] 0000002d com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[5/11/23 18:33:29:913 CEST] 0000002d com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[5/11/23 18:33:29:967 CEST] 00000013 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server defaultServer stopped after 0.887 seconds.
